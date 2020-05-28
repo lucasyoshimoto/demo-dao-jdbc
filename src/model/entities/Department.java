@@ -64,4 +64,9 @@ public class Department implements Serializable {
 		return "Department [id=" + id + ", name=" + name + "]";
 	}
 
+	public Department getDepartment() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
